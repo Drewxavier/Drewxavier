@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Andrew!
 
-<!--
-**Drewxavier/Drewxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer/artist/etc. who loves building creative and useful tools.
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- PHP, Python
+- Git & GitHub
+- java, OOP
+- C++
+- Visual basic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+## Fun Facts
+- I love animation and comedy
+- I train five times a week
+- I enjoy creating digital art
