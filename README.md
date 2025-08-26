@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Header](https://github.com/yourusername/yourusername/blob/main/banner.png)
+![Header](https://github.com/yourusername/yourusername/blob/main/banner.jpg.jpg))
 
 <h1 align="center">Hi there 👋, I'm Andrew!</h1>
 <h3 align="center">Passionate Developer | Digital Artist | Tech Enthusiast</h3>
