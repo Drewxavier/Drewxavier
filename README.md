@@ -31,7 +31,7 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 <table>
 <tr>
 <td>
-  <a href="https://github.com/Drewxavier/online-voting-system">
+  <a href="https://github.com/Drewxavier/Drewxavier/online-voting-system">
   <img src="https://img.shields.io/badge/Online%20Voting%20System-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Voting System Repo"/>
   </a> 
 <p>An online voting platform using **HTML, CSS, PHP, MySQL** with role-based access and an admin panel.</p>
