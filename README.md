@@ -38,7 +38,8 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 </td>
 <td>
   <a href="https://github.com/CLI-basedInventorySystemVB/inventory.php">
-  <img src="https://img.shields.io/badge/Inventory%20System-28A745.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CLI-basedInventorySystemVB/inventory.php)"/>
+[![Inventory System Repo](https://img.shields.io/badge/Inventory%20System-28A745.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Drewxavier/CLI-basedInventorySystemVB/blob/master/inventory.php)
+
   </a>
 <p> An simple Inventory system made purely from PHP codes that is able to add, update, and remove items from a list without using a database</p>
 
