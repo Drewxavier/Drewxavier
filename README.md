@@ -32,10 +32,16 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 <tr>
 <td>
 <a href="https://github.com/yourusername/online-voting-system">
-<a href="https://github.com/CLI-basedInventorySystemVB/inventory.php">
 <img src="https://img.shields.io/badge/Online Voting System-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Voting System Repo"/>
 </a>
 <p>An online voting platform using **HTML, CSS, PHP, MySQL** with role-based access and an admin panel.</p>
+</td>
+<td>
+  <a href="https://github.com/CLI-basedInventorySystemVB/inventory.php">
+  <img src="https://img.shields.io/badge/Online%20Voting%20System-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/CLI-basedInventorySystemVB/inventory.php)"/>
+  </a>
+<p> An simple Inventory system made purely from PHP codes that is able to add, update, and remove items from a list without using a database</p>
+
 </td>
 </tr>
 </table>
@@ -60,5 +66,5 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 
 ## 🎨 Fun Facts
 - 💡 I love **animation** and **comedy**
-- 🥋 I train **five times a week**
-- 🎨 I enjoy creating **digital art**
+- 🎨 I enjoy creating **digital art and animation**
+- ⌨️ I'm a **Fast typer😊😊**
