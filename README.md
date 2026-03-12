@@ -51,8 +51,8 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drewxavier&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drewxavier&layout=compact&theme=radical" height="165">
 </p>
 
 ---
