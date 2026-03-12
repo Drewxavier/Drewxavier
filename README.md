@@ -31,8 +31,8 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 <table>
 <tr>
 <td>
-<a href="https://github.com/yourusername/online-voting-system">
-<img src="https://img.shields.io/badge/Online Voting System-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Voting System Repo"/>
+<a href="https://github.com/Drewxavier/CLI-basedInventorySystemVB/blob/master/inventory.php">
+  <img src="https://img.shields.io/badge/Inventory%20System-28A745.svg?style=for-the-badge&logo=github&logoColor=white" alt="Inventory System Repo"/>
 </a>
 <p>An online voting platform using **HTML, CSS, PHP, MySQL** with role-based access and an admin panel.</p>
 </td>
