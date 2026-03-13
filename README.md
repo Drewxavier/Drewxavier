@@ -65,7 +65,8 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 
 ## 🤝 Connect with Me
 <p align="center">
-<a href="mailto:mainaandrewcom@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mainaandrewcom@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/andrewkibui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
