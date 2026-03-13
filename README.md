@@ -46,8 +46,9 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 </td>
 <td>
   <a href= "https://github.com/Drewxavier/Androidwhatsupinterface">
-  <img src="https://img.shields.io/badge/Androidwhatsupinterface-007BFF.svg?style=for-the-badge&logo=github&logoColor=white" alt="Android whatsupinterface System Repo"/>
-  <p> A demo of a whatsup interface that only displays what is users, using linear layout </p>
+  <img src="https://img.shields.io/badge/Demo%20whatsupinterface-007BFF.svg?style=for-the-badge&logo=github&logoColor=white" alt="Android whatsupinterface System Repo"/>
+  </a>
+  <p> A demo of a whatsup interface that only displays specific users and can be clicked to show users, using linear layout </p>
 </td>
 </tr>
 </table>
