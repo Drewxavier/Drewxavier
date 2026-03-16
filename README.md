@@ -4,13 +4,12 @@
 <h1 align="center">Hi there 👋, I'm Andrew!</h1>
 <h3 align="center">Passionate Developer | Digital Artist | Tech Enthusiast</h3>
 
+
 ---
 
 ## 🚀 About Me
-I'm a passionate developer and digital artist who loves building **creative tools** and crafting **beautiful designs**.  
-When I'm not coding, you’ll find me animating, drawing, or training to stay strong and focused.
-
----
+<p>I am a persistent and methodical learner based in Nairobi, Kenya, with a strong focus on ICT, cybersecurity, and software engineering. I thrive on structured, step‑by‑step explanations and enjoys digging into both the “why” and the “how” of technical problems. My projects often reflect a user‑centric design philosophy — whether it’s refining PHP CLI inventory logic for clear error handling or troubleshooting Git workflows to ensure smooth collaboration. I'm equally comfortable working across multiple programming languages and platforms, from PHP and Visual Basic to Android development.<br>
+Beyond my technical skills, I'm deeply engaged in broader themes like AI agent design, cryptography, smart city infrastructure, and distributed systems. My character is defined by persistence, analytical reasoning, and a drive to connect practical coding with professional presentation. In every challenge, I seeks clarity, depth, and impact — building tools that are not only functional but also intuitive and visually distinctive.</p>  
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -63,9 +62,23 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drewxavier&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drewxavier&layout=compact&theme=radical" height="165">
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Drewxavier&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drewxavier&layout=compact&theme=radical&langs_count=10" height="165">
 </p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drewxavier&theme=radical&hide_border=false" height="165">
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Drewxavier&color=red&style=flat-square&label=Profile+Views">
+</p>
+
 
 ---
 
