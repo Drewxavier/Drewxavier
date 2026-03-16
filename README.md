@@ -52,7 +52,7 @@ When I'm not coding, you’ll find me animating, drawing, or training to stay st
 </td>
 <td>
    <a href="https://github.com/Drewxavier/CLI-basedInventorySystemVB/blob/master/studentcourseregistration.php">
-  <img src="https://img.shields.io/badge/Student%20Registration-28A745.svg?style=for-the-badge&logo=github&logoColor=white" alt="Student Registration Repo"/>
+  <img src="https://img.shields.io/badge/Student%20Registration-17A2B8.svg?style=for-the-badge&logo=github&logoColor=black" alt="Student Registration Repo"/>
 </a>
 <p>A CLI-based system involving PHP  that allows a student to insert their details in a document that are temporarily stored in an array</p>
 </td>
