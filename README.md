@@ -61,23 +61,8 @@ Beyond my technical skills, I'm deeply engaged in broader themes like AI agent d
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Drewxavier&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165">
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drewxavier&layout=compact&theme=radical&langs_count=10" height="165">
-</p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drewxavier&theme=radical&hide_border=false" height="165">
-</p>
 
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Drewxavier&color=red&style=flat-square&label=Profile+Views">
-</p>
 
 
 ---
