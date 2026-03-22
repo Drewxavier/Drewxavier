@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 ![Header](https://github.com/Drewxavier/Drewxavier/raw/main/banner.jpg)
 
-<h1 align="center">Hi there 👋, I'm Andrew Maina!</h1>
+<h1 align="center">Hi there 👋, I'm Andrew!</h1>
 <h3 align="center">Passionate Developer | Digital Artist | Tech Enthusiast</h3>
 
 
