@@ -33,7 +33,7 @@ Beyond my technical skills, I'm deeply engaged in broader themes like AI agent d
   <a href="https://github.com/Drewxavier/Drewxavier/tree/main/Online%20voting%20system">
   <img src="https://img.shields.io/badge/Online%20Voting%20System-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="Voting System Repo"/>
   </a> 
-<p>An online voting platform using **HTML, CSS, PHP, MySQL** with role-based access and an admin panel.</p>
+<p>An online voting platform using **HTML**, **CSS**, **PHP**, **MySQL** with role-based access and an admin panel.</p>
 </td>
 <td>
   <a href="https://github.com/Drewxavier/CLI-basedInventorySystemVB/blob/master/inventory.php">
