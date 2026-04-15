@@ -44,6 +44,11 @@ Beyond my technical skills, I'm deeply engaged in broader themes like AI agent d
 
 </td>
 <td>
+  <a href="https://github.com/Drewxavier/PHPSerious/blob/master/Musicdemo.php">
+  <img src="https://img/shields.io/badge/Music%20System-6F42C1.svg?style=for-the-badge&logo=github&logo=github&logoColor=purple" alt="CLIMusic System Repo"/>
+  </a>
+<p> A Intermediate representation of a music app that demostrates the exact fanctions of a music app such as search, play and involving playlists</p>
+<td>
   <a href= "https://github.com/Drewxavier/Androidwhatsupinterface">
   <img src="https://img.shields.io/badge/Demo%20whatsupinterface-007BFF.svg?style=for-the-badge&logo=github&logoColor=white" alt="Android whatsupinterface System Repo"/>
   </a>
