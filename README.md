@@ -11,7 +11,7 @@
 ## 🚀 About Me
 Persistent and methodical student based in **Nairobi, Kenya** 🌍.  
 I thrive on structured, step‑by‑step explanations and love digging into both the *“why”* and the *“how”* of technical problems.  
-My projects reflect a **user‑centric design philosophy** — from refining PHP CLI inventory logic to exploring AI agent design and cryptography amaong other things.  
+My projects reflect a **user‑centric design philosophy** — from refining PHP CLI inventory logic to exploring AI agent design and cryptography.  
 
 ✨ Motto: *“Turning code into stories, and stories into code.”* 
 
